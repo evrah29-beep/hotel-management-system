@@ -1,0 +1,11 @@
+sku,item_name,category,unit,quantity,reorder_level,unit_cost,supplier
+HK-001,Bed Sheets,Housekeeping,pcs,180,40,8.5,Demo Supplier
+HK-002,Bath Towels,Housekeeping,pcs,220,50,5.5,Demo Supplier
+HK-003,Shampoo,Amenities,bottles,500,100,0.9,Demo Supplier
+HK-004,Soap,Amenities,pcs,700,150,0.35,Demo Supplier
+FB-001,Bottled Water,Food & Beverage,bottles,900,200,0.25,Demo Supplier
+FB-002,Coffee,Food & Beverage,kg,70,15,8.0,Demo Supplier
+FB-003,Rice,Food & Beverage,kg,250,50,1.5,Demo Supplier
+OP-001,Printer Paper,Office,packs,40,10,4.0,Demo Supplier
+MT-001,LED Bulbs,Maintenance,pcs,80,20,2.5,Demo Supplier
+MT-002,Air Filter,Maintenance,pcs,45,10,12.0,Demo Supplier

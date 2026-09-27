@@ -1,0 +1,361 @@
+expense_date,category,description,amount,payment_method,vendor
+2021-10-01,Utilities,Electricity and water,1856.91,Card,Demo Vendor
+2021-10-01,Marketing,Advertising,1269.55,Bank,Demo Vendor
+2021-10-01,Maintenance,Repairs,2130.22,Cash,Demo Vendor
+2021-10-01,Maintenance,Repairs,2228.41,Cash,Demo Vendor
+2021-10-01,Supplies,Housekeeping supplies,1596.13,Cash,Demo Vendor
+2021-10-01,Maintenance,Repairs,1452.18,Cash,Demo Vendor
+2021-11-01,Supplies,Housekeeping supplies,2403.95,Cash,Demo Vendor
+2021-11-01,Maintenance,Repairs,209.14,Card,Demo Vendor
+2021-11-01,Marketing,Advertising,1521.11,Cash,Demo Vendor
+2021-11-01,Food & Beverage,Food supplies,1673.93,Bank,Demo Vendor
+2021-11-01,Maintenance,Repairs,2135.16,Cash,Demo Vendor
+2021-11-01,Utilities,Electricity and water,691.59,Cash,Demo Vendor
+2021-12-01,Payroll,Temporary staff costs,1042.66,Bank,Demo Vendor
+2021-12-01,Payroll,Temporary staff costs,633.51,Mobile Money,Demo Vendor
+2021-12-01,Utilities,Electricity and water,2054.62,Cash,Demo Vendor
+2021-12-01,Supplies,Housekeeping supplies,890.75,Cash,Demo Vendor
+2021-12-01,Supplies,Housekeeping supplies,1536.15,Bank,Demo Vendor
+2021-12-01,Maintenance,Repairs,2499.65,Card,Demo Vendor
+2022-01-01,Maintenance,Repairs,1437.73,Mobile Money,Demo Vendor
+2022-01-01,Supplies,Housekeeping supplies,160.45,Mobile Money,Demo Vendor
+2022-01-01,Food & Beverage,Food supplies,1333.34,Bank,Demo Vendor
+2022-01-01,Maintenance,Repairs,2126.13,Card,Demo Vendor
+2022-01-01,Maintenance,Repairs,2000.81,Card,Demo Vendor
+2022-01-01,Utilities,Electricity and water,1100.64,Bank,Demo Vendor
+2022-02-01,Payroll,Temporary staff costs,2115.15,Cash,Demo Vendor
+2022-02-01,Utilities,Electricity and water,486.41,Card,Demo Vendor
+2022-02-01,Utilities,Electricity and water,1240.91,Card,Demo Vendor
+2022-02-01,Food & Beverage,Food supplies,924.05,Bank,Demo Vendor
+2022-02-01,Payroll,Temporary staff costs,1932.39,Card,Demo Vendor
+2022-02-01,Food & Beverage,Food supplies,2387.08,Mobile Money,Demo Vendor
+2022-03-01,Maintenance,Repairs,1667.06,Bank,Demo Vendor
+2022-03-01,Utilities,Electricity and water,1846.48,Cash,Demo Vendor
+2022-03-01,Utilities,Electricity and water,1424.05,Card,Demo Vendor
+2022-03-01,Maintenance,Repairs,259.81,Cash,Demo Vendor
+2022-03-01,Maintenance,Repairs,1079.92,Card,Demo Vendor
+2022-03-01,Marketing,Advertising,1673.1,Card,Demo Vendor
+2022-04-01,Utilities,Electricity and water,1206.22,Mobile Money,Demo Vendor
+2022-04-01,Payroll,Temporary staff costs,1413.92,Bank,Demo Vendor
+2022-04-01,Utilities,Electricity and water,1153.6,Mobile Money,Demo Vendor
+2022-04-01,Payroll,Temporary staff costs,1230.48,Cash,Demo Vendor
+2022-04-01,Supplies,Housekeeping supplies,1157.27,Cash,Demo Vendor
+2022-04-01,Maintenance,Repairs,1436.52,Card,Demo Vendor
+2022-05-01,Maintenance,Repairs,2026.28,Bank,Demo Vendor
+2022-05-01,Maintenance,Repairs,1519.33,Card,Demo Vendor
+2022-05-01,Marketing,Advertising,1047.38,Cash,Demo Vendor
+2022-05-01,Payroll,Temporary staff costs,825.31,Mobile Money,Demo Vendor
+2022-05-01,Supplies,Housekeeping supplies,941.74,Card,Demo Vendor
+2022-05-01,Utilities,Electricity and water,914.84,Cash,Demo Vendor
+2022-06-01,Payroll,Temporary staff costs,597.81,Mobile Money,Demo Vendor
+2022-06-01,Supplies,Housekeeping supplies,2398.76,Mobile Money,Demo Vendor
+2022-06-01,Supplies,Housekeeping supplies,1030.29,Bank,Demo Vendor
+2022-06-01,Marketing,Advertising,2076.32,Cash,Demo Vendor
+2022-06-01,Marketing,Advertising,865.89,Mobile Money,Demo Vendor
+2022-06-01,Food & Beverage,Food supplies,966.31,Bank,Demo Vendor
+2022-07-01,Maintenance,Repairs,1968.09,Bank,Demo Vendor
+2022-07-01,Food & Beverage,Food supplies,187.3,Mobile Money,Demo Vendor
+2022-07-01,Food & Beverage,Food supplies,2139.91,Card,Demo Vendor
+2022-07-01,Marketing,Advertising,690.1,Bank,Demo Vendor
+2022-07-01,Maintenance,Repairs,741.45,Bank,Demo Vendor
+2022-07-01,Payroll,Temporary staff costs,1766.97,Bank,Demo Vendor
+2022-08-01,Food & Beverage,Food supplies,2140.06,Cash,Demo Vendor
+2022-08-01,Marketing,Advertising,2219.48,Bank,Demo Vendor
+2022-08-01,Marketing,Advertising,995.43,Bank,Demo Vendor
+2022-08-01,Payroll,Temporary staff costs,2175.9,Card,Demo Vendor
+2022-08-01,Maintenance,Repairs,1112.5,Bank,Demo Vendor
+2022-08-01,Supplies,Housekeeping supplies,904.27,Mobile Money,Demo Vendor
+2022-09-01,Maintenance,Repairs,240.51,Mobile Money,Demo Vendor
+2022-09-01,Supplies,Housekeeping supplies,1375.61,Mobile Money,Demo Vendor
+2022-09-01,Maintenance,Repairs,599.88,Mobile Money,Demo Vendor
+2022-09-01,Food & Beverage,Food supplies,1403.41,Mobile Money,Demo Vendor
+2022-09-01,Marketing,Advertising,1806.13,Mobile Money,Demo Vendor
+2022-09-01,Maintenance,Repairs,398.35,Mobile Money,Demo Vendor
+2022-10-01,Utilities,Electricity and water,1847.24,Bank,Demo Vendor
+2022-10-01,Utilities,Electricity and water,1576.16,Bank,Demo Vendor
+2022-10-01,Supplies,Housekeeping supplies,1965.03,Bank,Demo Vendor
+2022-10-01,Marketing,Advertising,1117.65,Mobile Money,Demo Vendor
+2022-10-01,Supplies,Housekeeping supplies,529.86,Mobile Money,Demo Vendor
+2022-10-01,Maintenance,Repairs,498.54,Bank,Demo Vendor
+2022-11-01,Supplies,Housekeeping supplies,2145.25,Cash,Demo Vendor
+2022-11-01,Maintenance,Repairs,942.64,Mobile Money,Demo Vendor
+2022-11-01,Food & Beverage,Food supplies,424.89,Cash,Demo Vendor
+2022-11-01,Food & Beverage,Food supplies,983.02,Mobile Money,Demo Vendor
+2022-11-01,Maintenance,Repairs,813.0,Card,Demo Vendor
+2022-11-01,Maintenance,Repairs,1055.06,Mobile Money,Demo Vendor
+2022-12-01,Utilities,Electricity and water,1895.78,Cash,Demo Vendor
+2022-12-01,Utilities,Electricity and water,1128.62,Bank,Demo Vendor
+2022-12-01,Utilities,Electricity and water,207.51,Bank,Demo Vendor
+2022-12-01,Marketing,Advertising,2360.15,Cash,Demo Vendor
+2022-12-01,Food & Beverage,Food supplies,2239.9,Card,Demo Vendor
+2022-12-01,Payroll,Temporary staff costs,259.79,Cash,Demo Vendor
+2023-01-01,Payroll,Temporary staff costs,1612.19,Mobile Money,Demo Vendor
+2023-01-01,Marketing,Advertising,1879.52,Bank,Demo Vendor
+2023-01-01,Maintenance,Repairs,1768.77,Mobile Money,Demo Vendor
+2023-01-01,Supplies,Housekeeping supplies,532.41,Mobile Money,Demo Vendor
+2023-01-01,Marketing,Advertising,276.1,Bank,Demo Vendor
+2023-01-01,Maintenance,Repairs,367.08,Mobile Money,Demo Vendor
+2023-02-01,Food & Beverage,Food supplies,974.79,Card,Demo Vendor
+2023-02-01,Supplies,Housekeeping supplies,574.02,Card,Demo Vendor
+2023-02-01,Utilities,Electricity and water,1835.25,Card,Demo Vendor
+2023-02-01,Maintenance,Repairs,205.77,Cash,Demo Vendor
+2023-02-01,Payroll,Temporary staff costs,2040.47,Cash,Demo Vendor
+2023-02-01,Maintenance,Repairs,1174.46,Mobile Money,Demo Vendor
+2023-03-01,Supplies,Housekeeping supplies,1415.74,Mobile Money,Demo Vendor
+2023-03-01,Payroll,Temporary staff costs,1357.02,Bank,Demo Vendor
+2023-03-01,Utilities,Electricity and water,2459.42,Bank,Demo Vendor
+2023-03-01,Maintenance,Repairs,1137.76,Card,Demo Vendor
+2023-03-01,Marketing,Advertising,368.42,Mobile Money,Demo Vendor
+2023-03-01,Payroll,Temporary staff costs,188.23,Mobile Money,Demo Vendor
+2023-04-01,Marketing,Advertising,2352.53,Card,Demo Vendor
+2023-04-01,Maintenance,Repairs,1279.81,Bank,Demo Vendor
+2023-04-01,Food & Beverage,Food supplies,2409.31,Card,Demo Vendor
+2023-04-01,Maintenance,Repairs,1015.16,Mobile Money,Demo Vendor
+2023-04-01,Utilities,Electricity and water,2422.57,Card,Demo Vendor
+2023-04-01,Supplies,Housekeeping supplies,544.21,Cash,Demo Vendor
+2023-05-01,Payroll,Temporary staff costs,1906.65,Cash,Demo Vendor
+2023-05-01,Marketing,Advertising,1845.48,Cash,Demo Vendor
+2023-05-01,Marketing,Advertising,910.14,Bank,Demo Vendor
+2023-05-01,Food & Beverage,Food supplies,2096.51,Card,Demo Vendor
+2023-05-01,Utilities,Electricity and water,282.74,Card,Demo Vendor
+2023-05-01,Marketing,Advertising,831.98,Cash,Demo Vendor
+2023-06-01,Food & Beverage,Food supplies,416.92,Mobile Money,Demo Vendor
+2023-06-01,Maintenance,Repairs,2374.99,Bank,Demo Vendor
+2023-06-01,Payroll,Temporary staff costs,285.38,Bank,Demo Vendor
+2023-06-01,Marketing,Advertising,1255.58,Cash,Demo Vendor
+2023-06-01,Utilities,Electricity and water,1995.15,Card,Demo Vendor
+2023-06-01,Food & Beverage,Food supplies,1145.22,Bank,Demo Vendor
+2023-07-01,Supplies,Housekeeping supplies,2231.78,Bank,Demo Vendor
+2023-07-01,Maintenance,Repairs,1568.23,Cash,Demo Vendor
+2023-07-01,Maintenance,Repairs,620.94,Cash,Demo Vendor
+2023-07-01,Maintenance,Repairs,2053.67,Mobile Money,Demo Vendor
+2023-07-01,Food & Beverage,Food supplies,2331.7,Bank,Demo Vendor
+2023-07-01,Food & Beverage,Food supplies,224.15,Cash,Demo Vendor
+2023-08-01,Maintenance,Repairs,785.26,Card,Demo Vendor
+2023-08-01,Supplies,Housekeeping supplies,1370.56,Bank,Demo Vendor
+2023-08-01,Food & Beverage,Food supplies,2033.14,Bank,Demo Vendor
+2023-08-01,Food & Beverage,Food supplies,442.76,Bank,Demo Vendor
+2023-08-01,Food & Beverage,Food supplies,2494.41,Mobile Money,Demo Vendor
+2023-08-01,Utilities,Electricity and water,898.16,Mobile Money,Demo Vendor
+2023-09-01,Maintenance,Repairs,1331.39,Mobile Money,Demo Vendor
+2023-09-01,Marketing,Advertising,726.65,Card,Demo Vendor
+2023-09-01,Payroll,Temporary staff costs,2091.48,Mobile Money,Demo Vendor
+2023-09-01,Maintenance,Repairs,2482.38,Cash,Demo Vendor
+2023-09-01,Payroll,Temporary staff costs,1988.69,Card,Demo Vendor
+2023-09-01,Payroll,Temporary staff costs,874.35,Card,Demo Vendor
+2023-10-01,Marketing,Advertising,2001.71,Card,Demo Vendor
+2023-10-01,Marketing,Advertising,1557.33,Bank,Demo Vendor
+2023-10-01,Marketing,Advertising,2100.88,Card,Demo Vendor
+2023-10-01,Marketing,Advertising,706.91,Mobile Money,Demo Vendor
+2023-10-01,Maintenance,Repairs,908.16,Mobile Money,Demo Vendor
+2023-10-01,Payroll,Temporary staff costs,1455.91,Card,Demo Vendor
+2023-11-01,Utilities,Electricity and water,1451.97,Card,Demo Vendor
+2023-11-01,Utilities,Electricity and water,985.11,Card,Demo Vendor
+2023-11-01,Food & Beverage,Food supplies,643.13,Bank,Demo Vendor
+2023-11-01,Maintenance,Repairs,1094.01,Card,Demo Vendor
+2023-11-01,Payroll,Temporary staff costs,1710.52,Bank,Demo Vendor
+2023-11-01,Maintenance,Repairs,1858.61,Bank,Demo Vendor
+2023-12-01,Food & Beverage,Food supplies,388.88,Card,Demo Vendor
+2023-12-01,Food & Beverage,Food supplies,988.6,Mobile Money,Demo Vendor
+2023-12-01,Marketing,Advertising,386.64,Bank,Demo Vendor
+2023-12-01,Maintenance,Repairs,1333.76,Card,Demo Vendor
+2023-12-01,Payroll,Temporary staff costs,1294.04,Bank,Demo Vendor
+2023-12-01,Food & Beverage,Food supplies,250.02,Mobile Money,Demo Vendor
+2024-01-01,Food & Beverage,Food supplies,1515.14,Card,Demo Vendor
+2024-01-01,Supplies,Housekeeping supplies,2415.45,Card,Demo Vendor
+2024-01-01,Supplies,Housekeeping supplies,817.3,Mobile Money,Demo Vendor
+2024-01-01,Maintenance,Repairs,529.39,Mobile Money,Demo Vendor
+2024-01-01,Utilities,Electricity and water,1557.73,Cash,Demo Vendor
+2024-01-01,Supplies,Housekeeping supplies,605.01,Cash,Demo Vendor
+2024-02-01,Payroll,Temporary staff costs,257.42,Bank,Demo Vendor
+2024-02-01,Supplies,Housekeeping supplies,888.82,Card,Demo Vendor
+2024-02-01,Supplies,Housekeeping supplies,968.99,Card,Demo Vendor
+2024-02-01,Marketing,Advertising,1921.94,Mobile Money,Demo Vendor
+2024-02-01,Food & Beverage,Food supplies,601.7,Card,Demo Vendor
+2024-02-01,Utilities,Electricity and water,310.47,Cash,Demo Vendor
+2024-03-01,Marketing,Advertising,627.55,Card,Demo Vendor
+2024-03-01,Food & Beverage,Food supplies,609.82,Card,Demo Vendor
+2024-03-01,Maintenance,Repairs,707.07,Card,Demo Vendor
+2024-03-01,Maintenance,Repairs,1418.26,Card,Demo Vendor
+2024-03-01,Supplies,Housekeeping supplies,1746.23,Bank,Demo Vendor
+2024-03-01,Payroll,Temporary staff costs,2312.99,Mobile Money,Demo Vendor
+2024-04-01,Marketing,Advertising,859.26,Bank,Demo Vendor
+2024-04-01,Food & Beverage,Food supplies,466.55,Mobile Money,Demo Vendor
+2024-04-01,Food & Beverage,Food supplies,570.52,Mobile Money,Demo Vendor
+2024-04-01,Food & Beverage,Food supplies,314.1,Bank,Demo Vendor
+2024-04-01,Utilities,Electricity and water,787.99,Card,Demo Vendor
+2024-04-01,Supplies,Housekeeping supplies,156.46,Bank,Demo Vendor
+2024-05-01,Payroll,Temporary staff costs,1599.06,Bank,Demo Vendor
+2024-05-01,Marketing,Advertising,1579.05,Mobile Money,Demo Vendor
+2024-05-01,Food & Beverage,Food supplies,762.18,Card,Demo Vendor
+2024-05-01,Food & Beverage,Food supplies,212.05,Cash,Demo Vendor
+2024-05-01,Maintenance,Repairs,1731.07,Cash,Demo Vendor
+2024-05-01,Marketing,Advertising,2139.85,Bank,Demo Vendor
+2024-06-01,Marketing,Advertising,584.87,Mobile Money,Demo Vendor
+2024-06-01,Food & Beverage,Food supplies,1463.18,Bank,Demo Vendor
+2024-06-01,Utilities,Electricity and water,1777.44,Card,Demo Vendor
+2024-06-01,Payroll,Temporary staff costs,1044.45,Mobile Money,Demo Vendor
+2024-06-01,Supplies,Housekeeping supplies,906.51,Bank,Demo Vendor
+2024-06-01,Marketing,Advertising,2234.16,Card,Demo Vendor
+2024-07-01,Utilities,Electricity and water,1636.04,Card,Demo Vendor
+2024-07-01,Marketing,Advertising,1046.72,Card,Demo Vendor
+2024-07-01,Supplies,Housekeeping supplies,1673.15,Cash,Demo Vendor
+2024-07-01,Food & Beverage,Food supplies,2301.94,Card,Demo Vendor
+2024-07-01,Marketing,Advertising,753.3,Card,Demo Vendor
+2024-07-01,Maintenance,Repairs,1815.75,Mobile Money,Demo Vendor
+2024-08-01,Marketing,Advertising,2464.59,Card,Demo Vendor
+2024-08-01,Utilities,Electricity and water,996.49,Card,Demo Vendor
+2024-08-01,Maintenance,Repairs,1052.02,Card,Demo Vendor
+2024-08-01,Supplies,Housekeeping supplies,993.87,Bank,Demo Vendor
+2024-08-01,Utilities,Electricity and water,566.73,Cash,Demo Vendor
+2024-08-01,Maintenance,Repairs,1281.35,Cash,Demo Vendor
+2024-09-01,Payroll,Temporary staff costs,2234.85,Mobile Money,Demo Vendor
+2024-09-01,Maintenance,Repairs,2125.96,Mobile Money,Demo Vendor
+2024-09-01,Food & Beverage,Food supplies,1675.56,Cash,Demo Vendor
+2024-09-01,Utilities,Electricity and water,1332.5,Card,Demo Vendor
+2024-09-01,Marketing,Advertising,808.35,Bank,Demo Vendor
+2024-09-01,Marketing,Advertising,1992.84,Cash,Demo Vendor
+2024-10-01,Utilities,Electricity and water,269.5,Card,Demo Vendor
+2024-10-01,Food & Beverage,Food supplies,271.81,Bank,Demo Vendor
+2024-10-01,Payroll,Temporary staff costs,934.26,Cash,Demo Vendor
+2024-10-01,Marketing,Advertising,1104.28,Mobile Money,Demo Vendor
+2024-10-01,Supplies,Housekeeping supplies,446.06,Card,Demo Vendor
+2024-10-01,Marketing,Advertising,699.61,Cash,Demo Vendor
+2024-11-01,Supplies,Housekeeping supplies,669.06,Mobile Money,Demo Vendor
+2024-11-01,Food & Beverage,Food supplies,1437.09,Bank,Demo Vendor
+2024-11-01,Food & Beverage,Food supplies,1730.1,Cash,Demo Vendor
+2024-11-01,Maintenance,Repairs,1132.11,Cash,Demo Vendor
+2024-11-01,Supplies,Housekeeping supplies,1053.18,Cash,Demo Vendor
+2024-11-01,Utilities,Electricity and water,1623.45,Bank,Demo Vendor
+2024-12-01,Marketing,Advertising,871.56,Bank,Demo Vendor
+2024-12-01,Marketing,Advertising,507.3,Bank,Demo Vendor
+2024-12-01,Supplies,Housekeeping supplies,924.62,Mobile Money,Demo Vendor
+2024-12-01,Marketing,Advertising,2287.68,Card,Demo Vendor
+2024-12-01,Payroll,Temporary staff costs,938.06,Mobile Money,Demo Vendor
+2024-12-01,Food & Beverage,Food supplies,708.14,Bank,Demo Vendor
+2025-01-01,Payroll,Temporary staff costs,738.68,Cash,Demo Vendor
+2025-01-01,Marketing,Advertising,614.65,Mobile Money,Demo Vendor
+2025-01-01,Maintenance,Repairs,1449.96,Mobile Money,Demo Vendor
+2025-01-01,Food & Beverage,Food supplies,1144.38,Mobile Money,Demo Vendor
+2025-01-01,Utilities,Electricity and water,442.6,Cash,Demo Vendor
+2025-01-01,Utilities,Electricity and water,2049.63,Card,Demo Vendor
+2025-02-01,Payroll,Temporary staff costs,829.92,Cash,Demo Vendor
+2025-02-01,Payroll,Temporary staff costs,2346.16,Mobile Money,Demo Vendor
+2025-02-01,Food & Beverage,Food supplies,1606.78,Cash,Demo Vendor
+2025-02-01,Maintenance,Repairs,671.57,Mobile Money,Demo Vendor
+2025-02-01,Maintenance,Repairs,313.47,Card,Demo Vendor
+2025-02-01,Payroll,Temporary staff costs,2366.85,Cash,Demo Vendor
+2025-03-01,Maintenance,Repairs,892.92,Bank,Demo Vendor
+2025-03-01,Maintenance,Repairs,2299.16,Bank,Demo Vendor
+2025-03-01,Utilities,Electricity and water,298.43,Cash,Demo Vendor
+2025-03-01,Utilities,Electricity and water,934.52,Mobile Money,Demo Vendor
+2025-03-01,Utilities,Electricity and water,1162.46,Card,Demo Vendor
+2025-03-01,Supplies,Housekeeping supplies,1475.95,Cash,Demo Vendor
+2025-04-01,Marketing,Advertising,1386.14,Card,Demo Vendor
+2025-04-01,Maintenance,Repairs,1468.21,Mobile Money,Demo Vendor
+2025-04-01,Payroll,Temporary staff costs,1680.74,Card,Demo Vendor
+2025-04-01,Maintenance,Repairs,2482.24,Card,Demo Vendor
+2025-04-01,Food & Beverage,Food supplies,1068.78,Bank,Demo Vendor
+2025-04-01,Utilities,Electricity and water,1381.37,Card,Demo Vendor
+2025-05-01,Payroll,Temporary staff costs,1761.2,Cash,Demo Vendor
+2025-05-01,Marketing,Advertising,1160.07,Card,Demo Vendor
+2025-05-01,Maintenance,Repairs,166.0,Bank,Demo Vendor
+2025-05-01,Supplies,Housekeeping supplies,839.95,Card,Demo Vendor
+2025-05-01,Supplies,Housekeeping supplies,1219.8,Cash,Demo Vendor
+2025-05-01,Supplies,Housekeeping supplies,181.47,Card,Demo Vendor
+2025-06-01,Food & Beverage,Food supplies,1915.05,Mobile Money,Demo Vendor
+2025-06-01,Utilities,Electricity and water,2122.41,Cash,Demo Vendor
+2025-06-01,Utilities,Electricity and water,1011.03,Card,Demo Vendor
+2025-06-01,Utilities,Electricity and water,2283.32,Bank,Demo Vendor
+2025-06-01,Payroll,Temporary staff costs,2273.55,Cash,Demo Vendor
+2025-06-01,Supplies,Housekeeping supplies,612.82,Cash,Demo Vendor
+2025-07-01,Payroll,Temporary staff costs,268.5,Bank,Demo Vendor
+2025-07-01,Supplies,Housekeeping supplies,1263.41,Mobile Money,Demo Vendor
+2025-07-01,Maintenance,Repairs,1710.9,Card,Demo Vendor
+2025-07-01,Marketing,Advertising,2015.73,Card,Demo Vendor
+2025-07-01,Maintenance,Repairs,1262.38,Bank,Demo Vendor
+2025-07-01,Marketing,Advertising,1367.84,Mobile Money,Demo Vendor
+2025-08-01,Marketing,Advertising,198.43,Cash,Demo Vendor
+2025-08-01,Supplies,Housekeeping supplies,1978.21,Cash,Demo Vendor
+2025-08-01,Maintenance,Repairs,1080.56,Bank,Demo Vendor
+2025-08-01,Utilities,Electricity and water,2050.21,Mobile Money,Demo Vendor
+2025-08-01,Marketing,Advertising,1246.47,Cash,Demo Vendor
+2025-08-01,Marketing,Advertising,461.62,Bank,Demo Vendor
+2025-09-01,Food & Beverage,Food supplies,266.84,Card,Demo Vendor
+2025-09-01,Supplies,Housekeeping supplies,807.44,Cash,Demo Vendor
+2025-09-01,Maintenance,Repairs,1140.87,Cash,Demo Vendor
+2025-09-01,Maintenance,Repairs,552.68,Card,Demo Vendor
+2025-09-01,Payroll,Temporary staff costs,602.41,Card,Demo Vendor
+2025-09-01,Payroll,Temporary staff costs,1298.36,Mobile Money,Demo Vendor
+2025-10-01,Food & Beverage,Food supplies,2088.86,Bank,Demo Vendor
+2025-10-01,Payroll,Temporary staff costs,2086.85,Bank,Demo Vendor
+2025-10-01,Marketing,Advertising,485.19,Mobile Money,Demo Vendor
+2025-10-01,Food & Beverage,Food supplies,2498.77,Bank,Demo Vendor
+2025-10-01,Payroll,Temporary staff costs,2217.64,Card,Demo Vendor
+2025-10-01,Marketing,Advertising,687.42,Bank,Demo Vendor
+2025-11-01,Supplies,Housekeeping supplies,1095.86,Card,Demo Vendor
+2025-11-01,Food & Beverage,Food supplies,2433.77,Cash,Demo Vendor
+2025-11-01,Utilities,Electricity and water,196.85,Cash,Demo Vendor
+2025-11-01,Food & Beverage,Food supplies,217.8,Bank,Demo Vendor
+2025-11-01,Food & Beverage,Food supplies,1264.86,Mobile Money,Demo Vendor
+2025-11-01,Marketing,Advertising,1701.26,Cash,Demo Vendor
+2025-12-01,Marketing,Advertising,1705.77,Card,Demo Vendor
+2025-12-01,Maintenance,Repairs,599.09,Bank,Demo Vendor
+2025-12-01,Supplies,Housekeeping supplies,2488.83,Bank,Demo Vendor
+2025-12-01,Utilities,Electricity and water,1722.71,Bank,Demo Vendor
+2025-12-01,Marketing,Advertising,676.88,Card,Demo Vendor
+2025-12-01,Marketing,Advertising,681.84,Cash,Demo Vendor
+2026-01-01,Utilities,Electricity and water,703.7,Card,Demo Vendor
+2026-01-01,Marketing,Advertising,2205.28,Card,Demo Vendor
+2026-01-01,Marketing,Advertising,1844.85,Card,Demo Vendor
+2026-01-01,Utilities,Electricity and water,401.35,Card,Demo Vendor
+2026-01-01,Supplies,Housekeeping supplies,282.73,Mobile Money,Demo Vendor
+2026-01-01,Marketing,Advertising,1914.04,Bank,Demo Vendor
+2026-02-01,Utilities,Electricity and water,219.96,Bank,Demo Vendor
+2026-02-01,Food & Beverage,Food supplies,158.13,Mobile Money,Demo Vendor
+2026-02-01,Maintenance,Repairs,719.77,Mobile Money,Demo Vendor
+2026-02-01,Payroll,Temporary staff costs,1027.1,Cash,Demo Vendor
+2026-02-01,Payroll,Temporary staff costs,2235.5,Mobile Money,Demo Vendor
+2026-02-01,Supplies,Housekeeping supplies,556.09,Cash,Demo Vendor
+2026-03-01,Marketing,Advertising,603.98,Card,Demo Vendor
+2026-03-01,Maintenance,Repairs,1834.17,Bank,Demo Vendor
+2026-03-01,Food & Beverage,Food supplies,253.36,Bank,Demo Vendor
+2026-03-01,Food & Beverage,Food supplies,1523.26,Cash,Demo Vendor
+2026-03-01,Marketing,Advertising,2001.87,Bank,Demo Vendor
+2026-03-01,Marketing,Advertising,200.53,Cash,Demo Vendor
+2026-04-01,Supplies,Housekeeping supplies,317.47,Bank,Demo Vendor
+2026-04-01,Marketing,Advertising,1099.74,Cash,Demo Vendor
+2026-04-01,Utilities,Electricity and water,1855.0,Mobile Money,Demo Vendor
+2026-04-01,Maintenance,Repairs,477.98,Bank,Demo Vendor
+2026-04-01,Maintenance,Repairs,1495.15,Bank,Demo Vendor
+2026-04-01,Marketing,Advertising,296.83,Cash,Demo Vendor
+2026-05-01,Marketing,Advertising,990.02,Card,Demo Vendor
+2026-05-01,Payroll,Temporary staff costs,223.76,Mobile Money,Demo Vendor
+2026-05-01,Utilities,Electricity and water,2001.76,Bank,Demo Vendor
+2026-05-01,Marketing,Advertising,263.73,Card,Demo Vendor
+2026-05-01,Food & Beverage,Food supplies,1808.85,Card,Demo Vendor
+2026-05-01,Utilities,Electricity and water,1729.08,Cash,Demo Vendor
+2026-06-01,Marketing,Advertising,2221.79,Mobile Money,Demo Vendor
+2026-06-01,Marketing,Advertising,1502.21,Cash,Demo Vendor
+2026-06-01,Marketing,Advertising,2187.68,Cash,Demo Vendor
+2026-06-01,Maintenance,Repairs,520.86,Mobile Money,Demo Vendor
+2026-06-01,Food & Beverage,Food supplies,2316.25,Cash,Demo Vendor
+2026-06-01,Marketing,Advertising,1343.45,Card,Demo Vendor
+2026-07-01,Supplies,Housekeeping supplies,953.1,Card,Demo Vendor
+2026-07-01,Maintenance,Repairs,614.55,Mobile Money,Demo Vendor
+2026-07-01,Payroll,Temporary staff costs,1174.44,Mobile Money,Demo Vendor
+2026-07-01,Supplies,Housekeeping supplies,2153.41,Bank,Demo Vendor
+2026-07-01,Payroll,Temporary staff costs,409.67,Card,Demo Vendor
+2026-07-01,Food & Beverage,Food supplies,2411.25,Bank,Demo Vendor
+2026-08-01,Payroll,Temporary staff costs,990.06,Card,Demo Vendor
+2026-08-01,Food & Beverage,Food supplies,1020.16,Bank,Demo Vendor
+2026-08-01,Food & Beverage,Food supplies,2106.66,Bank,Demo Vendor
+2026-08-01,Utilities,Electricity and water,1159.97,Mobile Money,Demo Vendor
+2026-08-01,Supplies,Housekeeping supplies,455.95,Bank,Demo Vendor
+2026-08-01,Payroll,Temporary staff costs,222.87,Mobile Money,Demo Vendor
+2026-09-01,Food & Beverage,Food supplies,1697.52,Card,Demo Vendor
+2026-09-01,Maintenance,Repairs,597.19,Bank,Demo Vendor
+2026-09-01,Marketing,Advertising,2110.44,Card,Demo Vendor
+2026-09-01,Food & Beverage,Food supplies,1489.97,Bank,Demo Vendor
+2026-09-01,Supplies,Housekeeping supplies,785.0,Mobile Money,Demo Vendor
+2026-09-01,Maintenance,Repairs,1446.1,Mobile Money,Demo Vendor

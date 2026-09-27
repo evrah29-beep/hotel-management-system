@@ -1,0 +1,26 @@
+employee_code,full_name,phone,email,job_title,department,hire_date,salary,status
+EMP-001,Ifrah Ibrahim,+252612945931,staff001@example.test,Room Attendant,Housekeeping,2022-07-17,647.99,Active
+EMP-002,Hassan Osman,+252613946849,staff002@example.test,Receptionist,Front Office,2020-09-01,258.23,Active
+EMP-003,Amina Mohamed,+252619328426,staff003@example.test,Room Attendant,Housekeeping,2025-05-05,475.36,Active
+EMP-004,Yusuf Mohamed,+252617238933,staff004@example.test,Technician,Maintenance,2020-09-16,737.35,Active
+EMP-005,Maryan Ahmed,+252611492516,staff005@example.test,Waiter,Food & Beverage,2021-11-17,774.62,Active
+EMP-006,Samira Ali,+252615411563,staff006@example.test,Waiter,Food & Beverage,2023-12-29,883.78,Active
+EMP-007,Ifrah Warsame,+252618636951,staff007@example.test,Supervisor,Management,2022-11-12,484.08,Active
+EMP-008,Fartun Mohamed,+252617168777,staff008@example.test,Accountant,Finance,2020-11-18,415.83,Active
+EMP-009,Fartun Osman,+252612934976,staff009@example.test,Receptionist,Front Office,2021-04-12,731.51,Active
+EMP-010,Hodan Ismail,+252611206159,staff010@example.test,Receptionist,Front Office,2021-05-15,279.89,Active
+EMP-011,Nimco Mohamed,+252614002466,staff011@example.test,Waiter,Food & Beverage,2025-03-22,874.22,Active
+EMP-012,Ismail Ahmed,+252618035849,staff012@example.test,Receptionist,Front Office,2021-04-04,459.17,Active
+EMP-013,Khadra Omar,+252612306728,staff013@example.test,Accountant,Finance,2023-03-16,492.33,Active
+EMP-014,Hodan Mohamed,+252614744423,staff014@example.test,Technician,Maintenance,2024-07-05,585.25,Active
+EMP-015,Nimco Ali,+252618802985,staff015@example.test,Receptionist,Front Office,2024-11-08,433.5,Active
+EMP-016,Khadra Ali,+252618662929,staff016@example.test,Waiter,Food & Beverage,2020-01-17,489.8,Active
+EMP-017,Fartun Ahmed,+252616098752,staff017@example.test,Waiter,Food & Beverage,2024-02-23,654.77,Active
+EMP-018,Sahra Nur,+252619277218,staff018@example.test,Accountant,Finance,2024-05-01,754.33,Active
+EMP-019,Ismail Ahmed,+252615112546,staff019@example.test,Supervisor,Management,2020-11-04,254.15,Active
+EMP-020,Amina Abdi,+252616812025,staff020@example.test,Accountant,Finance,2023-07-26,795.72,Active
+EMP-021,Khadra Hassan,+252617312844,staff021@example.test,Receptionist,Front Office,2024-10-04,729.75,Active
+EMP-022,Maryan Abdi,+252619888812,staff022@example.test,Waiter,Food & Beverage,2021-05-02,522.88,Active
+EMP-023,Fatima Jama,+252615694689,staff023@example.test,Receptionist,Front Office,2020-07-09,278.54,Active
+EMP-024,Samira Ibrahim,+252617249378,staff024@example.test,Room Attendant,Housekeeping,2022-07-27,883.46,Active
+EMP-025,Fartun Ali,+252619479670,staff025@example.test,Receptionist,Front Office,2020-09-30,664.19,Active

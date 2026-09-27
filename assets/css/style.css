@@ -1,0 +1,196 @@
+body {
+    background-color: #f4f7f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden !important; /* Stops the whole page from scrolling */
+}
+
+#wrapper {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Sidebar Styling */
+#sidebar {
+    width: 260px;
+    min-width: 260px;
+    background: #1c2434;
+    height: 100vh;
+    color: #8a99af;
+    transition: all 0.3s;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto; /* Allows sidebar to scroll independently */
+    flex-shrink: 0;
+}
+
+#sidebar .sidebar-header {
+    padding: 25px 20px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+#sidebar .sidebar-header i {
+    color: #10b981; /* Green accent */
+    font-size: 1.8rem;
+    margin-right: 12px;
+}
+
+#sidebar ul.components {
+    padding: 10px 15px;
+    flex-grow: 1;
+}
+
+#sidebar ul li {
+    margin-bottom: 5px;
+}
+
+#sidebar ul li a {
+    padding: 12px 20px;
+    font-size: 1rem;
+    display: block;
+    color: #8a99af;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out;
+}
+
+#sidebar ul li a:hover {
+    color: #fff;
+    background: #2a3447;
+}
+
+#sidebar ul li.active > a {
+    color: #fff;
+    background: #10b981; /* Green active state */
+}
+
+#sidebar ul li a i {
+    margin-right: 15px;
+    width: 20px;
+    text-align: center;
+}
+
+.logout-container {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Main Content area */
+#content {
+    flex-grow: 1;
+    width: calc(100% - 260px);
+    height: 100vh;
+    transition: all 0.3s;
+    overflow-y: auto; /* Allows main content to scroll independently */
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-wrapper {
+    padding: 25px;
+}
+
+/* Top Navbar */
+.top-navbar {
+    background: #fff;
+    padding: 15px 25px;
+    border-bottom: 1px solid #e2e8f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0; /* Prevents navbar from shrinking when scrolling */
+}
+
+/* Forces dropdowns to float securely over charts and cards */
+.top-navbar .dropdown-menu,
+.navbar .dropdown-menu {
+    position: absolute !important;
+    top: 100% !important;
+    right: 0 !important;
+    left: auto !important;
+    z-index: 9999 !important; 
+    margin-top: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border-radius: 12px;
+}
+
+.search-bar {
+    background: #f1f5f9;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 300px;
+    outline: none;
+}
+
+/* Cards & Widgets */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+    margin-bottom: 20px;
+}
+
+.welcome-banner {
+    background: linear-gradient(135deg, #e0f2fe 0%, #f0fdf4 100%);
+    border-radius: 12px;
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-green {
+    background-color: #10b981;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+}
+
+.btn-green:hover {
+    background-color: #059669;
+    color: #fff;
+}
+
+/* Quick Actions */
+.quick-action-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.quick-action-box:hover {
+    border-color: #10b981;
+    transform: translateY(-2px);
+}
+
+.quick-action-box i {
+    font-size: 2rem;
+    color: #10b981;
+    margin-bottom: 10px;
+}
+
+/* Table Status Badges */
+.badge-soft-success { background-color: #d1fae5; color: #065f46; padding: 6px 12px; border-radius: 6px; }
+.badge-soft-info { background-color: #e0f2fe; color: #0369a1; padding: 6px 12px; border-radius: 6px; }
+.badge-soft-warning { background-color: #fef3c7; color: #92400e; padding: 6px 12px; border-radius: 6px; }
+
+/* Custom Scrollbar Styling (Optional but recommended for a clean look) */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }

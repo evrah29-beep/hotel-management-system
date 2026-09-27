@@ -1,0 +1,501 @@
+room_number,title,description,priority,status,employee_code
+132,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-007
+127,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-014
+137,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-009
+104,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-014
+133,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-020
+105,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-001
+119,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-022
+115,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-025
+105,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-002
+108,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-005
+121,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-021
+118,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-009
+110,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-013
+118,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-013
+134,Light replacement,Historical demo maintenance record,High,Resolved,EMP-022
+125,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-008
+120,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-020
+131,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-022
+116,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-003
+106,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-021
+129,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-018
+104,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-018
+113,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-018
+106,Air conditioner service,Historical demo maintenance record,Medium,In Progress,EMP-013
+106,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-013
+118,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-023
+102,TV replacement,Historical demo maintenance record,High,In Progress,EMP-007
+121,TV replacement,Historical demo maintenance record,High,In Progress,EMP-025
+137,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-020
+122,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-001
+115,TV replacement,Historical demo maintenance record,High,Resolved,EMP-012
+111,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-012
+131,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-005
+138,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-009
+128,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-020
+135,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-011
+136,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-011
+127,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-013
+108,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-016
+103,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-025
+120,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-025
+108,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-022
+106,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-025
+101,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-002
+137,TV replacement,Historical demo maintenance record,High,In Progress,EMP-022
+108,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-025
+135,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-005
+138,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-010
+127,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-001
+130,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-003
+140,Door lock issue,Historical demo maintenance record,Low,In Progress,EMP-011
+130,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-015
+139,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-013
+126,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-013
+116,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-025
+113,Light replacement,Historical demo maintenance record,Medium,In Progress,EMP-005
+118,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-012
+140,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-001
+136,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-024
+135,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-011
+124,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-003
+116,Light replacement,Historical demo maintenance record,High,Resolved,EMP-002
+130,Door lock issue,Historical demo maintenance record,Medium,In Progress,EMP-020
+134,Water heater inspection,Historical demo maintenance record,High,In Progress,EMP-017
+117,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-024
+136,Light replacement,Historical demo maintenance record,High,In Progress,EMP-025
+126,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-010
+118,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-005
+130,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-003
+134,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-012
+131,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-002
+138,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-007
+120,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-014
+120,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-004
+133,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-004
+134,Plumbing repair,Historical demo maintenance record,Low,In Progress,EMP-009
+110,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-020
+101,TV replacement,Historical demo maintenance record,High,In Progress,EMP-022
+135,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-006
+135,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-015
+134,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-004
+101,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-002
+117,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-014
+138,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-020
+131,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-016
+140,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-020
+132,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-008
+124,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-007
+140,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-006
+114,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-010
+137,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-007
+106,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-001
+138,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-012
+138,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-025
+135,Air conditioner service,Historical demo maintenance record,Medium,In Progress,EMP-023
+138,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-013
+116,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-011
+107,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-018
+126,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-020
+104,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-018
+112,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-012
+140,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-004
+113,Door lock issue,Historical demo maintenance record,Medium,In Progress,EMP-001
+121,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-023
+139,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-015
+136,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-004
+127,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-007
+128,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-015
+112,Door lock issue,Historical demo maintenance record,Medium,In Progress,EMP-003
+127,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-013
+110,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-016
+135,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-015
+119,Light replacement,Historical demo maintenance record,High,Resolved,EMP-005
+133,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-002
+109,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-002
+106,TV replacement,Historical demo maintenance record,High,Resolved,EMP-007
+130,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-013
+137,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-012
+132,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-006
+107,Water heater inspection,Historical demo maintenance record,Low,In Progress,EMP-012
+111,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-019
+120,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-021
+135,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-002
+126,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-003
+122,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-011
+136,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-010
+140,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-010
+114,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-012
+136,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-014
+111,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-003
+110,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-002
+132,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-003
+104,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-004
+129,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-012
+118,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-023
+112,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-007
+134,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-021
+132,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-005
+131,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-004
+125,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-008
+124,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-019
+111,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-019
+104,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-002
+102,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-005
+107,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-010
+112,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-001
+138,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-015
+117,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-020
+137,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-024
+115,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-018
+110,Air conditioner service,Historical demo maintenance record,Medium,In Progress,EMP-017
+124,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-008
+109,Water heater inspection,Historical demo maintenance record,Low,In Progress,EMP-021
+107,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-025
+139,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-004
+113,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-022
+117,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-004
+119,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-003
+124,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-020
+131,TV replacement,Historical demo maintenance record,High,In Progress,EMP-023
+127,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-007
+112,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-012
+122,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-011
+118,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-010
+123,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-021
+140,Light replacement,Historical demo maintenance record,High,In Progress,EMP-002
+139,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-007
+125,Water heater inspection,Historical demo maintenance record,Low,In Progress,EMP-009
+112,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-007
+137,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-001
+110,TV replacement,Historical demo maintenance record,High,Resolved,EMP-022
+122,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-021
+134,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-015
+127,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-018
+114,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-007
+111,Light replacement,Historical demo maintenance record,Medium,In Progress,EMP-003
+105,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-008
+133,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-001
+127,TV replacement,Historical demo maintenance record,High,In Progress,EMP-022
+118,Light replacement,Historical demo maintenance record,High,Resolved,EMP-014
+136,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-015
+118,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-011
+111,TV replacement,Historical demo maintenance record,High,Resolved,EMP-015
+106,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-023
+124,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-015
+101,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-016
+131,Water heater inspection,Historical demo maintenance record,High,In Progress,EMP-024
+119,TV replacement,Historical demo maintenance record,High,In Progress,EMP-010
+125,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-020
+110,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-016
+124,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-002
+117,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-013
+118,Water heater inspection,Historical demo maintenance record,Low,In Progress,EMP-020
+103,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-017
+121,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-003
+127,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-010
+102,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-012
+137,TV replacement,Historical demo maintenance record,High,Resolved,EMP-009
+113,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-010
+105,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-017
+116,Light replacement,Historical demo maintenance record,High,In Progress,EMP-024
+116,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-008
+129,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-006
+131,Air conditioner service,Historical demo maintenance record,Medium,In Progress,EMP-015
+136,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-001
+112,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-012
+136,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-002
+119,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-005
+102,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-024
+118,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-013
+116,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-017
+118,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-013
+139,Water heater inspection,Historical demo maintenance record,Low,In Progress,EMP-004
+111,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-011
+114,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-006
+129,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-014
+113,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-004
+134,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-019
+128,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-002
+111,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-021
+112,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-022
+122,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-013
+111,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-014
+136,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-018
+123,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-008
+128,Door lock issue,Historical demo maintenance record,Low,In Progress,EMP-013
+121,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-008
+134,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-021
+107,Light replacement,Historical demo maintenance record,High,Resolved,EMP-017
+103,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-004
+133,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-008
+107,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-025
+111,Door lock issue,Historical demo maintenance record,Medium,In Progress,EMP-002
+121,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-021
+126,Door lock issue,Historical demo maintenance record,Low,In Progress,EMP-024
+112,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-009
+126,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-020
+130,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-016
+119,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-014
+109,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-025
+133,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-018
+106,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-017
+105,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-008
+136,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-004
+118,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-020
+123,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-024
+138,Light replacement,Historical demo maintenance record,High,Resolved,EMP-023
+140,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-011
+116,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-017
+111,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-003
+122,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-019
+128,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-004
+105,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-003
+135,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-013
+117,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-002
+129,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-013
+109,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-019
+117,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-004
+113,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-022
+134,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-023
+131,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-008
+102,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-012
+126,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-007
+138,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-013
+122,TV replacement,Historical demo maintenance record,High,Resolved,EMP-012
+130,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-023
+103,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-001
+128,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-023
+127,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-007
+136,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-008
+121,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-001
+109,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-015
+130,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-016
+109,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-006
+113,TV replacement,Historical demo maintenance record,High,Resolved,EMP-021
+114,TV replacement,Historical demo maintenance record,High,Resolved,EMP-015
+109,TV replacement,Historical demo maintenance record,High,Resolved,EMP-018
+132,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-005
+107,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-024
+118,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-001
+127,TV replacement,Historical demo maintenance record,High,Resolved,EMP-018
+112,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-009
+133,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-010
+126,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-003
+117,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-025
+125,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-002
+132,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-003
+109,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-019
+125,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-013
+139,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-009
+111,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-021
+104,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-024
+137,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-007
+115,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-020
+135,TV replacement,Historical demo maintenance record,High,Resolved,EMP-019
+126,Air conditioner service,Historical demo maintenance record,Medium,In Progress,EMP-010
+119,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-005
+136,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-017
+120,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-019
+133,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-001
+108,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-006
+135,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-014
+119,TV replacement,Historical demo maintenance record,High,In Progress,EMP-018
+139,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-021
+132,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-006
+123,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-020
+127,Light replacement,Historical demo maintenance record,High,Resolved,EMP-001
+112,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-011
+127,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-003
+127,TV replacement,Historical demo maintenance record,High,Resolved,EMP-021
+105,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-019
+134,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-012
+113,TV replacement,Historical demo maintenance record,High,Resolved,EMP-004
+132,Light replacement,Historical demo maintenance record,High,Resolved,EMP-021
+101,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-014
+106,Light replacement,Historical demo maintenance record,High,Resolved,EMP-022
+105,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-007
+119,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-003
+115,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-019
+108,Light replacement,Historical demo maintenance record,High,Resolved,EMP-021
+127,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-012
+140,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-011
+131,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-024
+111,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-007
+136,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-001
+110,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-011
+122,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-025
+104,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-023
+127,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-004
+112,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-018
+116,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-001
+140,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-019
+110,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-005
+118,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-019
+112,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-017
+139,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-019
+105,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-007
+105,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-023
+117,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-025
+130,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-008
+107,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-007
+111,Light replacement,Historical demo maintenance record,High,Resolved,EMP-012
+116,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-013
+122,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-012
+102,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-024
+128,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-004
+103,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-002
+136,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-010
+121,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-023
+128,Light replacement,Historical demo maintenance record,High,In Progress,EMP-018
+118,Light replacement,Historical demo maintenance record,High,Resolved,EMP-016
+125,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-012
+137,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-006
+135,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-009
+134,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-010
+107,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-020
+109,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-014
+136,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-013
+132,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-002
+129,TV replacement,Historical demo maintenance record,High,Resolved,EMP-003
+137,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-018
+104,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-019
+111,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-015
+128,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-007
+108,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-008
+103,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-022
+110,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-006
+118,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-014
+116,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-007
+120,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-008
+112,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-013
+134,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-019
+129,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-005
+136,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-020
+117,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-001
+114,Plumbing repair,Historical demo maintenance record,Low,In Progress,EMP-011
+127,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-013
+110,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-015
+103,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-018
+139,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-018
+130,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-009
+109,TV replacement,Historical demo maintenance record,High,Resolved,EMP-013
+113,Water heater inspection,Historical demo maintenance record,High,In Progress,EMP-016
+129,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-021
+115,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-004
+108,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-008
+106,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-008
+103,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-019
+139,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-014
+121,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-024
+120,Light replacement,Historical demo maintenance record,High,Resolved,EMP-020
+139,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-014
+119,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-015
+115,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-019
+114,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-005
+127,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-004
+136,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-019
+138,Light replacement,Historical demo maintenance record,High,In Progress,EMP-017
+123,TV replacement,Historical demo maintenance record,High,Resolved,EMP-002
+105,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-015
+114,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-021
+110,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-025
+111,Door lock issue,Historical demo maintenance record,High,In Progress,EMP-018
+118,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-025
+136,TV replacement,Historical demo maintenance record,High,In Progress,EMP-005
+129,Light replacement,Historical demo maintenance record,High,Resolved,EMP-013
+106,Plumbing repair,Historical demo maintenance record,Medium,In Progress,EMP-006
+127,Plumbing repair,Historical demo maintenance record,High,In Progress,EMP-007
+119,Light replacement,Historical demo maintenance record,High,In Progress,EMP-013
+109,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-025
+105,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-004
+132,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-022
+107,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-005
+121,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-018
+119,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-009
+132,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-024
+126,Light replacement,Historical demo maintenance record,Low,In Progress,EMP-009
+135,Plumbing repair,Historical demo maintenance record,Low,In Progress,EMP-020
+125,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-012
+132,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-024
+106,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-006
+137,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-003
+127,TV replacement,Historical demo maintenance record,Medium,In Progress,EMP-021
+140,TV replacement,Historical demo maintenance record,High,Resolved,EMP-019
+120,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-014
+133,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-001
+123,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-023
+111,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-018
+126,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-012
+115,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-016
+103,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-023
+107,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-009
+113,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-006
+120,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-018
+118,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-009
+116,Door lock issue,Historical demo maintenance record,Low,In Progress,EMP-003
+109,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-004
+101,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-021
+119,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-025
+107,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-023
+127,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-004
+130,TV replacement,Historical demo maintenance record,High,Resolved,EMP-008
+123,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-005
+106,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-014
+119,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-015
+140,Light replacement,Historical demo maintenance record,Medium,In Progress,EMP-025
+124,Water heater inspection,Historical demo maintenance record,High,In Progress,EMP-014
+137,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-002
+107,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-010
+111,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-013
+139,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-021
+111,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-017
+129,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-007
+128,Plumbing repair,Historical demo maintenance record,Low,In Progress,EMP-014
+130,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-023
+137,Air conditioner service,Historical demo maintenance record,High,Resolved,EMP-009
+105,Plumbing repair,Historical demo maintenance record,Low,Resolved,EMP-015
+138,Water heater inspection,Historical demo maintenance record,Medium,In Progress,EMP-005
+116,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-021
+114,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-011
+101,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-010
+118,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-001
+119,Door lock issue,Historical demo maintenance record,Medium,In Progress,EMP-008
+139,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-013
+125,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-003
+125,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-017
+101,Door lock issue,Historical demo maintenance record,Low,In Progress,EMP-021
+121,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-007
+111,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-020
+131,Water heater inspection,Historical demo maintenance record,Medium,Resolved,EMP-004
+120,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-024
+133,TV replacement,Historical demo maintenance record,Low,In Progress,EMP-020
+103,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-008
+132,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-015
+118,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-005
+110,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-022
+104,Air conditioner service,Historical demo maintenance record,Low,Resolved,EMP-019
+136,TV replacement,Historical demo maintenance record,Low,Resolved,EMP-018
+133,Water heater inspection,Historical demo maintenance record,Low,Resolved,EMP-002
+123,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-013
+140,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-023
+124,TV replacement,Historical demo maintenance record,High,Resolved,EMP-013
+112,Door lock issue,Historical demo maintenance record,Low,Resolved,EMP-006
+110,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-018
+101,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-013
+112,Air conditioner service,Historical demo maintenance record,Medium,Resolved,EMP-024
+102,Air conditioner service,Historical demo maintenance record,Low,In Progress,EMP-003
+116,Light replacement,Historical demo maintenance record,Medium,Resolved,EMP-024
+122,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-010
+115,Door lock issue,Historical demo maintenance record,Medium,Resolved,EMP-005
+104,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-025
+112,Door lock issue,Historical demo maintenance record,High,Resolved,EMP-008
+116,Air conditioner service,Historical demo maintenance record,High,In Progress,EMP-025
+125,Water heater inspection,Historical demo maintenance record,High,Resolved,EMP-002
+102,TV replacement,Historical demo maintenance record,Medium,Resolved,EMP-023
+116,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-004
+131,TV replacement,Historical demo maintenance record,High,Resolved,EMP-024
+105,Light replacement,Historical demo maintenance record,Low,Resolved,EMP-006
+110,Plumbing repair,Historical demo maintenance record,High,Resolved,EMP-020
+136,Plumbing repair,Historical demo maintenance record,Medium,Resolved,EMP-023

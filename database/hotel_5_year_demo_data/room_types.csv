@@ -1,0 +1,6 @@
+type_name,price_per_night,description
+Standard,45,Comfortable standard room
+Deluxe,70,Deluxe room with upgraded amenities
+Executive,95,Executive room for business travelers
+Family,120,Family room with extra sleeping space
+Suite,160,Large suite with living area
